@@ -108,7 +108,7 @@ body {
     width: 50%;
 }
 .bn_box2 {
-    background: url(/img/Hero_Section2.png) no-repeat center / cover;
+    background: url(../img/Hero_Section2.png) no-repeat center / cover;
     color: var(--mainColor);
     display: flex;
     flex-direction: column;
