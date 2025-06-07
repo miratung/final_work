@@ -431,7 +431,7 @@ hr {margin: 16px 0;}
 .section04 { display: flex;}
 .img_ph01 {width: 50%;}
 .img_ph02 {
-    background: url(/img/Hero_Section2.png) no-repeat center / cover;
+    background: url(../img/Hero_Section2.png) no-repeat center / cover;
     display: flex;
     justify-content: center;
     align-items: center;
